@@ -1,3 +1,3 @@
 # analyzeSpringConstant
-> python
-> using openpyxl to analyze xlsx file
+ - python
+ - using openpyxl to analyze xlsx file
